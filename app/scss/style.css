@@ -20,7 +20,9 @@ body {
 }
 
 .logo {
+  margin-top: 15px;
   width: 120px;
+  clip-path: circle();
 }
 
 a:hover, a.featured:hover {
